@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio Projects Repository
 This repository contains some of the data analysis work I've been doing using SQL and Excel.  
 You'll find:
 
